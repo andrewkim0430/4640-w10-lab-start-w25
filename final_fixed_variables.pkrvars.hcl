@@ -1,0 +1,5 @@
+ami_name     = "acit4640-w10-lab"
+aws_region   = "us-west-2"
+source_ami   = "ami-0c55b159cbfafe1f0"
+instance_type = "t2.micro"
+ssh_username = "ubuntu"
